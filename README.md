@@ -1,11 +1,14 @@
-### Hi there 👋
+<h1> Hello 👋👩‍💻 </h1>
 
-Here are some ideas to get you started:
+<p> Hi! I'm Monica! I am a full stack web developer from San Diego, CA. 
+  
+  🔭 I’m currently working on a tool to help a nonprofit track the services they provide to support individuals who are homeless or need extra financial assistance. Check out the work in my pinned repositories. 
+  
+  🎓 My favorite thing about being a web developer is collaborating with others on challenging problems, sharing expertise with other teachnically minded creatives, and learning new skills constantly.
+  
+  🐘 Before being a web developer I worked in the nonprofit sector for over 6 years, most recently working for the San Diego Zoo. I would love to work on a project that involves animal conservation or supports non-profits to achieve their goals.
 
-- 🔭 I’m currently working on a non-profit's external tracking tool. The nonprofit specializes in helping support individuals who are homeless or need extra support. The tracking tool includes adding new recipients, program types, service types, and is in progress of having custom metrics be built off of the collected data. 
-- 🌱 I’m currently learning more about UX/UI design and how a user interacts with a webpage. 
-- 👯 I’m looking to collaborate on any project, always. I love collaborating and expanding my knowledge by trying new things and learning from the best. 
-- 💬 Ask me about my background and how I switched from working in a zoo setting to becoming a Full Stack Web Developer.
-- 📫 How to reach me: email: monicascz92@gmail.com  
-- 😄 Pronouns: she/her
-- ⚡ Fun fact:  I am 100% Polish and am fluent in speaking Polish. I also really love turtles. Are those two things related? Definitely not, but if you meet me you, those two things will likely come up in conversation. 
+  
+  📫 How to reach me: email: monicascz92@gmail.com 
+
+</p>
