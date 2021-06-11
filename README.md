@@ -1,6 +1,6 @@
 <h1> Hello 👋👩‍💻 </h1>
 
-<p> Hi! I'm Monica! I am a full stack web developer from San Diego, CA. 
+<p>I'm Monica! I am a full stack web developer from San Diego, CA. 
   
   🔭 I’m currently working on a tool to help a nonprofit track the services they provide to support individuals who are homeless or need extra financial assistance. Check out the work in my pinned repositories. 
   
