@@ -9,6 +9,6 @@
   🐘 Before being a web developer I worked in the nonprofit sector for over 6 years, most recently working for the San Diego Zoo. I would love to work on a project that involves animal conservation or supports non-profits to achieve their goals.
 
   
-  📫 How to reach me: email: monicascz92@gmail.com 
+  📫 How to reach me: email: monicascz92@gmail.com | linkedin: linkedin.com/in/monicascz
 
 </p>
